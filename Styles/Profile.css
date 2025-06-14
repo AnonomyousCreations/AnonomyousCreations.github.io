@@ -26,11 +26,6 @@ h1
   transition: opacity 1s;
 }
 
-.Profile img:hover
-{
-  opacity: 0.5;
-}
-
 #profileBar
 {
   background-image: linear-gradient(transparent, var(--defaultColor));
